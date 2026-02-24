@@ -19,6 +19,7 @@ Application complète utilisant **Hibernate 6.2.22** pour la persistance des don
 - ✅ **Lignes de Commande** (Détails des produits commandés)
 - ✅ **Interface Graphique Moderne** (Java Swing + Nimbus Look and Feel)
 - ✅ **Auto-génération des IDs** (Clés primaires automatiques)
+- ✅ **Historique de Commande** (Consultation de l'historique des commandes de chaque client)
 
 ## 🏗️ Architecture
 
